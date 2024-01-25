@@ -2163,4 +2163,8 @@ li {
         padding-bottom: 20px;
         width: 100%;
     }
+
+    .text__container {
+        margin: 16px 0 0 0;
+    }
 }
